@@ -1,0 +1,16 @@
+h1 {
+  color: #1de9b6;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+li {
+  background: #0d0d0d;
+  color: #eee;
+  margin: 8px;
+  padding: 10px;
+  border-radius: 6px;
+}
