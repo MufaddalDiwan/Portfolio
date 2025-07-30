@@ -1,11 +1,12 @@
 import { Component } from '@angular/core';
 import { bootstrapApplication } from '@angular/platform-browser';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { NgForOf } from '@angular/common';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [HttpClientModule],
+  imports: [HttpClientModule, NgForOf],
   templateUrl: './app.html',
   styleUrls: ['./app.css']
 })
