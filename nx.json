@@ -1,0 +1,7 @@
+{
+  "installation": {
+    "version": "21.3.10"
+  },
+  "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "nxCloudId": "688a82cf331a6846fdafb83a"
+}
